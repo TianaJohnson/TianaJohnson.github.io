@@ -3,7 +3,7 @@
 body {
   font-family: 'Lora', serif;
   color: black;
-background-color: #E6E6FA;
+background-color: linear-gradient(-45deg, #E6E6FA, #141E30);
 }
 
 
