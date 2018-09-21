@@ -3,7 +3,7 @@
 body {
   font-family: 'Lora', serif;
   color: black;
-background: linear-gradient(-45deg, #7FFFD4, #141E30);
+  background: -webkit-linear-gradient(-45deg, #35577D, #141E30)
 }
 
 
