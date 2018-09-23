@@ -66,25 +66,19 @@ body {
 	margin: 0 auto;
 	float: left;
 }
-.college {
+.hub {
 	width: 1200px;
 	margin: 20px;
 }
-.edu-left {
+.hub-left {
 	width: 400px;
 	margin: 0 auto;
 	float: left;
 }
-.edu-right {
+.hub-right {
 	width: 800px;
 	margin: 0 auto;
 	float: left;
-}
-.edu h3 {
-	font-size: 20px;
-}
-.edu h4 {
-	font-size: 15px;
 }
 .skills {
 	width: 1200px;
