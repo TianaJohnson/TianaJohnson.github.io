@@ -7,9 +7,12 @@ body {
 	  
 }
 
-.image { right
+.image { float-right
+	border-style: dashed;
 }
 #header {
 	display: inline;
 }
 
+.contant, h1 { under-line
+}
