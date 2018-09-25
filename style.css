@@ -6,8 +6,12 @@ body {
   background: -webkit-linear-gradient(-45deg, #AFEEEE, #F0FFFF)
 	  
 }
+/***** Grid *****/
 
-.image {  width: 400px;
+
+
+.image { float: right;
+	width: 400px;
     height: 400px;
     padding: 15px;
     box-shadow: 10px 10px;
