@@ -7,9 +7,13 @@ body {
 	  
 }
 
-.image { float-right
-	border-style: dashed;
+.image {  width: 400px;
+    height: 400px;
+    padding: 15px;
+    background-color: gray;
+    box-shadow: 10px 10px;
 }
+
 #header {
 	display: inline;
 }
