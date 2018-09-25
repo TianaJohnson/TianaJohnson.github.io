@@ -12,9 +12,9 @@ body {
 
 .image { float: right;
     width: 400px;
-    height: 3500px;
+    height: 267px;
     boarder: solid;
-    box-shadow: 10px 10px;
+    box-shadow: 10px 10px pink;
 }
 
 #header {
