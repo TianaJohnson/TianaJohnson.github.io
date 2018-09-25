@@ -4,10 +4,11 @@ body {
   font-family: 'Lora', serif;
   color: black;
   background: -webkit-linear-gradient(-45deg, #AFEEEE, #F0FFFF)
+	  
 }
 
-
-/***** GRID *****/
+.image { left
+}
 #header {
 	display: inline;
 }
