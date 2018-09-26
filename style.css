@@ -33,5 +33,5 @@ body {
 .d { text-indent: 50px;
 }
 
-.contact { float: center;
+.contact { style-align: center;
 }
