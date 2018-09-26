@@ -33,8 +33,5 @@ body {
 .d { text-indent: 50px;
 }
 
-.contact, h1 { underline
-}
-
-.ooobs, h2 { underline
+.contact { float: center;
 }
