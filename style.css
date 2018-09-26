@@ -10,7 +10,7 @@ body {
 
 
 
-.image { float: right;
+.image { float: center;
     width: 400px;
     height: 267px;
     boarder: solid;
