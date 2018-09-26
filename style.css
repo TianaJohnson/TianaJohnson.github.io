@@ -6,7 +6,7 @@ body {
   background: -webkit-linear-gradient(-45deg, #AFEEEE, #F0FFFF)
 	  
 }
-/***** Grid *****/
+
 
 
 
@@ -20,6 +20,10 @@ body {
 #header {
 	display: inline;
 }
+
+.a { text-indent: 50px;
+}
+
 
 .contact, h1 { underline
 }
