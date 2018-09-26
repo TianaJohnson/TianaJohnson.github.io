@@ -23,7 +23,15 @@ body {
 
 .a { text-indent: 50px;
 }
+ 
+.b { text-indent: 50px;
+}
 
+.c { text-indent: 50px;
+}
+
+.d { text-indent: 50px;
+}
 
 .contact, h1 { underline
 }
