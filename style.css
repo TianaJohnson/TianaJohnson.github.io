@@ -9,14 +9,15 @@ body {
 
 
 
-.image { float: center;
+.image { float: left;
     width: 400px;
     height: 267px;
     boarder: solid;
     box-shadow: 10px 10px pink;
 }
 
-.image2 { width: 400px;
+.image2 { float: right; 
+    width: 400px;
     height: 267px;
     boarder: solid;
     box-shadow: 10px 10px pink;
@@ -51,13 +52,14 @@ body {
 .edu-head { text-align: center;
 	}
 
-.edu-right { tect-align: center;
+.edu-right { text-align: center;
 }
 	
 .other-head { text-align: center;
 	}
 
 .other-right {text-align: center;
+}
 	
 .contact { text-align: center;
 }
