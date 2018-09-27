@@ -1,7 +1,7 @@
 /***** Base Styles *****/
 
 body {
-  font-family: 'Lora', serif;
+  font-family: "Courier New", Courier, monospace
   color: black;
   background: -webkit-linear-gradient(-45deg, #AFEEEE, #F0FFFF)
 	  
@@ -9,7 +9,7 @@ body {
 
 
 
-.image {
+.image { float: center;
     width: 400px;
     height: 267px;
     boarder: solid;
@@ -21,16 +21,19 @@ body {
 	display: inline;
 }
 
-.Ooobs-left { text-align: center;
-}
-.Ooobs-right { text-align: center;
+.Ooobs-head { text-align: center;
 }
 
 .a { text-indent: 50px;
 }
  
+.Penn-head { text-align: center;
+}
+
 .b { text-indent: 50px;
 }
+
+.hub-head { text-align: center;
 
 .c { text-indent: 50px;
 }
@@ -38,5 +41,10 @@ body {
 .d { text-indent: 50px;
 }
 
+.edu-head { text-align: center;
+	}
+	
+.other-head { text-align: center;
+	}
 div.contact { text-align: center;
 }
