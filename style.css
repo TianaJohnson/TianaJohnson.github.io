@@ -35,35 +35,25 @@ body {
 }
 
 .ooobs-head { text-align: center;
-	width: 1200px;
-	margin: 20px;
+	
 }
 
 .b { text-indent: 50px;
 }
 
 .penn-head { text-align: center;
-	width: 400px;
-	margin: 0 auto;
 	
-}
+	}
 .c { text-indent: 50px;
 
 }
 
-.acf {
-	width: 1200px;
-	margin:  20px;
+.hub-head { text-align: center;
+
 }
-.acf-left {
-	width: 400px;
-	margin: 0 auto;
-	float: left;
-}
-.acf-right {
-	width: 800px;
-	margin: 0 auto;
-	float: left;
+.d { text-indent: 50px;
+	]
+	
 }
 .college {
 	width: 1200px;
