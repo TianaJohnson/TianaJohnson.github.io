@@ -11,5 +11,8 @@ body {
 #header {
 	display: inline;
 }
+
+#image { float: right;
+}
 	
 
