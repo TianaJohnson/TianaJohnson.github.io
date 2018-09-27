@@ -7,7 +7,8 @@ body {
 	  
 }
 
-#header { display: inline;
+#header {
+	display: inline;
 }
 
 .image { float: left;
@@ -17,13 +18,6 @@ body {
     box-shadow: 10px 10px pink;
 }
 
-.image2 { float: right; 
-    width: 400px;
-    height: 267px;
-    boarder: solid;
-    box-shadow: 10px 10px pink;
-
-}
 
 #header {
 	display: inline;
