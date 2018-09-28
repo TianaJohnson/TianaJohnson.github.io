@@ -22,7 +22,7 @@ body {
 
 .a { 
 	text-indent: 50px;
-	margin: 35px;
+	margin: 40px;
 }
 
 .ooobs-head {
@@ -30,7 +30,22 @@ body {
 }
 
 .b {
-	margin: 35px;
+	margin: 40px;
+	text-indent: 50px;
+}
+
+.penn-head {
+	text-align: center;
+}
+.c {
+	margin: 40px;
+	text-indent: 50px;
+}
+.hub-head {
+	text-align: center;
+}
+.d {
+	margin: 40px;
 	text-indent: 50px;
 }
 
