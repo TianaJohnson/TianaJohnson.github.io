@@ -13,7 +13,10 @@ body {
 }
 
 .image { 
-	float: center;
+	  display: block;
+          margin-left: auto;
+          margin-right: auto;
+          width: 40%;
 	}
 
 .contact {
