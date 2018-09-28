@@ -16,7 +16,6 @@ body {
 	  display: block;
           margin-left: auto;
           margin-right: auto;
-          width: 30%;
 	}
 
 .contact {
@@ -25,7 +24,7 @@ body {
 
 .a { 
 	text-indent: 50px;
-	margin: 50px;
+	margin: 65px;
 }
 
 .ooobs-head {
@@ -34,7 +33,7 @@ body {
 
 .b {
 	margin: 50px;
-	text-indent: 50px;
+	text-indent: 65px;
 }
 
 .penn-head {
@@ -42,14 +41,14 @@ body {
 }
 .c {
 	margin: 50px;
-	text-indent: 50px;
+	text-indent: 65px;
 }
 .hub-head {
 	text-align: center;
 }
 .d {
 	margin: 50px;
-	text-indent: 50px;
+	text-indent: 65px;
 }
 .college { 
 	text-align: center;
