@@ -15,6 +15,9 @@ body {
 #image { float: right;
 }
 
+.contact { margin: 100px;
+}
+
 .a { text-indent: 50px;
 	margin: 25px;
 }
