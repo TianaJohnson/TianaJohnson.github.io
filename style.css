@@ -12,7 +12,7 @@ body {
 	display: inline;
 }
 
-#image { 
+.image { 
 	float: right;
 	}
 
@@ -26,10 +26,11 @@ body {
 }
 
 .ooobs-head {
-	text-align: center;
+	    text-align: center;
 }
 
-#ooobs {
+.ooobs {
 	margin: 35px;
+	text-indent: 50px;
 }
 
