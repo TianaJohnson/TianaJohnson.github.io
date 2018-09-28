@@ -12,7 +12,7 @@ body {
 	display: inline;
 }
 
-#image { float: left;
+#image { float: right;
 	margin: 100px;
 
 }
