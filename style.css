@@ -51,5 +51,10 @@ body {
 .college { 
 	text-align: center;
 }
-.other { text-align: center;
+.other {
+	text-align: center;
+}
+ul { 
+	display: inline-block;
+	text-align: left; 
 }
