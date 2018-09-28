@@ -17,7 +17,7 @@ body {
 	}
 
 .contact {
-	margin: 200px;
+	text-align: center;
 }
 
 .a { 
@@ -29,7 +29,7 @@ body {
 	    text-align: center;
 }
 
-.ooobs {
+.b {
 	margin: 35px;
 	text-indent: 50px;
 }
