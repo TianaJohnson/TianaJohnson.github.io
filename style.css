@@ -12,16 +12,24 @@ body {
 	display: inline;
 }
 
-#image { float: right;
-	
+#image { 
+	float: right;
+	}
 
+.contact {
+	margin: 200px;
 }
 
-.contact { margin: 200px;
+.a { 
+	text-indent: 50px;
+	margin: 35px;
 }
 
-.
-.a { text-indent: 50px;
-	margin: 25px;
+.ooobs-head {
+	text-align: center;
+}
+
+#ooobs {
+	margin: 35px;
 }
 
