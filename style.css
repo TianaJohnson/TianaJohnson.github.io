@@ -12,7 +12,9 @@ body {
 	display: inline;
 }
 
-#image { float: right;
+#image { float: left;
+	margin: 100px;
+
 }
 
 .contact { margin: 100px;
