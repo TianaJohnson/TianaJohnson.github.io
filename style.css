@@ -29,7 +29,7 @@ img {
 	text-align: center;
 }
 
-#a.ul {
+#ul {
 	display: inline-block;
 	margin: 30px auto;
 }
@@ -72,6 +72,4 @@ ul {
 	display: inline-block;
 	text-align: left; 
 	font-size: 16px;
-	
-	
 }
