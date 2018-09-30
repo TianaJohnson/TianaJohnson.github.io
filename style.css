@@ -31,8 +31,7 @@ img {
 
 .a.ul {
 	display: inline-block;
-	text-align: left; 
-	font-size: 16px;
+	margin: 30px 80px;
 }
 
 .a { 
