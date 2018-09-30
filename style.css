@@ -29,6 +29,12 @@ img {
 	text-align: center;
 }
 
+.a.ul {
+	display: inline-block;
+	text-align: left; 
+	font-size: 16px;
+}
+
 .a { 
 	text-indent: 50px;
 	margin: 90px;
