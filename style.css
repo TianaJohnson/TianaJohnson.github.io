@@ -29,9 +29,9 @@ img {
 	text-align: center;
 }
 
-.a.ul {
+#a.ul {
 	display: inline-block;
-	margin: 30px 80px;
+	margin: 30px auto;
 }
 
 .a { 
